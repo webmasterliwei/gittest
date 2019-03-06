@@ -1,3 +1,17 @@
+[百度](http://www.baidu.com "百度")
+
+[百度]
+
+[百度]: http://www.baidu.com "百度"
+
+<a href="http://www.baidu.com" target="_blank" style="color: purple; text-decoration: none; font-size:10px; float: left; margin-right:10px;">百度</a>
+
+<http://www.baidu.com>
+
+<img src="http://mahua.jser.me/mahua-logo.jpg"/>
+
+![](http://mahua.jser.me/mahua-logo.jpg)
+
 <style>
     body {
         line-height: 1.5;
